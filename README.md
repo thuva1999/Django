@@ -51,7 +51,7 @@ Git
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/thuva1999/Django.git
 
 
 Create a virtual environment:
